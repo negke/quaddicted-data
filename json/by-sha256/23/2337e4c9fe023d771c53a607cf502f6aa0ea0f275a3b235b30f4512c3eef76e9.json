@@ -1,6 +1,6 @@
 {
  "bytes": 527087,
- "description": "Islands / 2 SP maps / digs, scampie",
+ "description": "Islands / 2 SP maps / digs, Scampie",
  "files": {
   "sm170_digs.bsp": {
    "bytes": 1096396,
@@ -25,7 +25,7 @@
  "sha256": "2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9",
  "tags": [
   "author=digs",
-  "author=scampie",
+  "author=Scampie",
   "filename=sm170_pack.zip",
   "game=quake",
   "game_mode=singleplayer",
