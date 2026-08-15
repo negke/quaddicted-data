@@ -1,6 +1,6 @@
 {
  "bytes": 30964728,
- "description": "Huge and intricately detailed map set in a medieval swampy environment. Loosely based on e1m3. The map source and the texture wad are included.",
+ "description": "Huge and intricately detailed map, set in a medieval swampy environment. Loosely based on e1m3. The map source and the texture wad are included.",
  "files": {
   "ad_quake.def": {
    "bytes": 290898,
@@ -1099,7 +1099,7 @@
  "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "tags": [
   "author=Giftmacher",
-  "author=Sock",
+  "author=sock",
   "commandline=-game ad",
   "exceeds_quake_limits=yes",
   "filename=ad_sepulcher.zip",
